@@ -1,0 +1,4 @@
+[DATABASE]
+
+path = database.sqlite3
+video_table = video_table

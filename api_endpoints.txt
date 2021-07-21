@@ -1,0 +1,6 @@
+[ENDPOINTS]
+
+all_videos = /videos
+video = /video
+post_video = /post_video
+put_video = /put_video
