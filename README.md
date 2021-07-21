@@ -6,7 +6,7 @@
 ##### > git clone https://github.com/guilherme-sal/AluraFlix.git
 ##### > pip install -r requirements.txt
 ## Endpoints
-##### all_videos = localhost:5000/videos
-##### video = localhost:5000/video
-##### post_video = localhost:5000/post_video
-##### put_video = localhost:5000/put_video
+##### * GET all videos = localhost:5000/videos
+##### * GET and DELETE video = localhost:5000/video/[1]
+##### * POST video = localhost:5000/post_video?id=[1]&title=[Robocop]
+##### * PUT video = localhost:5000/put_video
