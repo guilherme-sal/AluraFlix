@@ -8,5 +8,5 @@
 ## Endpoints
 ##### * <strong>GET</strong> all videos = localhost:5000/videos
 ##### * GET and DELETE video = localhost:5000/video/[1]
-##### * POST video = localhost:5000/post_video?id=[1]&title=[Robocop]&description=[Scu-fy]&url=[www.aluraflix.com/643hjhkj498409238njsdkf/]
+##### * POST video = localhost:5000/post_video?id=[1]&title=[Robocop]&description=[Scu-fy]&url=[aluraflix.com/643hjhkj498409238njsdkf/]
 ##### * PUT video = localhost:5000/put_video?id=[1]&description=[Comedy]
